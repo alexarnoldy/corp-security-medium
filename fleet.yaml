@@ -1,0 +1,2 @@
+dependsOn:
+  - name: gatekeeper-templates-gatekeeper-fleet-constraint-templates 
