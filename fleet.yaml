@@ -1,2 +1,2 @@
 dependsOn:
-  - name: gatekeeper-templates-gatekeeper-fleet-constraint-templates 
+  - name: gatekeeper-constraint-templates-gatekeeper-fleet-constrai-cbdca
